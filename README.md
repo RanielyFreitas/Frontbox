@@ -12,3 +12,5 @@ Nesse repositório você encontra os *starter files* de um projeto construído c
 - BEM
 - Trabalhar com variáveis CSS
 - Media Queries
+
+![Output sample](https://github.com/RanielyFreitas/Frontbox/blob/main/img/Frontbox.gif)
